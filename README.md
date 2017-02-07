@@ -1,3 +1,5 @@
+Small Three.js Prototype build on the JS Coding Night Meetup in Munich ;)
+
 # Winter Wonderland - with Three.js
 
 [Three.JS API Documentation](https://threejs.org/docs)
