@@ -4,6 +4,7 @@
   "description": "README.md",
   "main": "index.js",
   "dependencies": {
+    "three-orbit-controls": "^82.1.0",
     "webpack": "~2.2.1"
   },
   "devDependencies": {
